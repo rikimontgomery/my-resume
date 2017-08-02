@@ -1,0 +1,29 @@
+.header {
+  font-style: bold;
+  text-align: center;
+  line-height: 10px;
+}
+.title {
+  font-style: bold;
+}
+.name {
+  text-align: center;
+  font-style: bold;
+  font-family: sans-serif;
+}
+.post {
+  color: blue;
+}
+.list {
+  color: red;
+}
+
+.opening {
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.main-body {
+  padding-left: 30px;
+}
